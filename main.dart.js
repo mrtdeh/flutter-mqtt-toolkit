@@ -47100,8 +47100,8 @@ j.b=1883
 m.Q=j
 P.cM("ws://"+k)
 m.gca(m)
-$.zA=4
-$.a57="MQTT"
+$.zA=3
+$.a57="MQIsdp"
 $.cx().ci(" serverUri : "+k)
 $.cx().ci(" client object : "+m.gca(m).h(0))
 $.cx().ci("Is Web : true")
